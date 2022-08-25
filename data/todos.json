@@ -29,6 +29,12 @@
       "completed": false,
       "id": 5,
       "color": "red"
+    },
+     {
+      "text": "Learn Next.Js",
+      "completed": true,
+      "id": 6,
+      "color": "green"
     }
   ]
 }
