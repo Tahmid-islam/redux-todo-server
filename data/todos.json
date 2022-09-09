@@ -18,9 +18,9 @@
       "color": "yellow"
     },
     {
+      "id": 4,
       "text": "Learn Redux Basics",
       "completed": false,
-      "id": 4,
       "color": "green"
     },
     {
